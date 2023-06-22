@@ -1,16 +1,40 @@
 # tiktox
 
-A new Flutter project.
+TikTox is a flutter app that allows you to create and watch short videos with music and effects.
 
-## Getting Started
+## What is the purpose of this app?
 
-This project is a starting point for a Flutter application.
+This app is meant to be a simplified clone of TikTok, the popular social media platform for video creation and sharing. You can express yourself, discover new trends, and connect with others.
 
-A few resources to get you started if this is your first Flutter project:
+## How to use this app?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To use this app, you need to follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone this repository to your local machine.
+- Install the dependencies with the command flutter pub get.
+- Run the app with the command flutter run.
+- Open the app on your device or emulator.
+- Sign up or log in with your email and password.
+- Swipe up or down to browse videos from different categories.
+- Tap on the video to pause or resume.
+- Double tap on the video to like or unlike.
+<-- Tap on the comment icon to view or write comments.
+- Tap on the share icon to share the video with others.
+- Tap on the profile icon to view or edit your profile.
+- Tap on the plus icon to create a new video.
+- Choose a song from the library or record your own voice.
+- Record a video with the camera or select one from your gallery.
+- Apply filters and effects to your video.
+- Edit your video with trimming, cropping, and speed options.
+Add a caption and hashtags to your video.
+Publish your video and watch it go viral.-->
+
+## Where can I get more help?
+
+If you have any questions or suggestions about this app, you can contact me through my linkedin [https://www.linkedin.com/in/isveth-alfonso-ruiz-3a89a41b2/]
+
+## Who are the authors of this app?
+
+This app was created by Isveth as part of a flutter course. The contributors are:
+
+Isveth
