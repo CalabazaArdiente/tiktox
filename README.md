@@ -18,7 +18,7 @@ To use this app, you need to follow these steps:
 - Swipe up or down to browse videos from different categories.
 - Tap on the video to pause or resume.
 - Double tap on the video to like or unlike.
-<--! Tap on the comment icon to view or write comments.
+<!-- Tap on the comment icon to view or write comments.
 - Tap on the share icon to share the video with others.
 - Tap on the profile icon to view or edit your profile.
 - Tap on the plus icon to create a new video.
